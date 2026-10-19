@@ -449,10 +449,28 @@ Please do not submit API keys, internal IP addresses, private threat intelligenc
 
 If you discover a security issue, follow the repository owner's preferred private reporting process rather than publishing credentials or exploitable details in a public issue.
 
-## License
-
-Choose and add an appropriate open-source license before publishing this repository. Do not assume that the code is licensed for reuse until a license file is included.
-
 ---
 
 **Disclaimer:** This project is an integration utility and is not an official MISP or Splunk product. Validate its behavior and security configuration before using it in a production environment.
+
+
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+
+---
+
+# 👤 Author
+
+**Navid Alizadeh**
+
+www.linkedin.com/in/navid-alizadeh-vaghasloo
+
+Security Operations Center Analyst
+Splunk | SOC | Threat Detection | Incident Response
+
+---
+
+⭐ If this project is useful to you, consider giving the repository a star.
