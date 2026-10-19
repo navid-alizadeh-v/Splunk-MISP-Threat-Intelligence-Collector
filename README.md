@@ -139,23 +139,12 @@ The exact interface and available permission options may vary between MISP versi
 
 - Use a dedicated service account when possible.
 - Apply least-privilege permissions.
-- Never commit a real API key to Git.
-- Do not include API keys in screenshots, terminal output, issue reports, or documentation.
-- Rotate the key if it is exposed.
 
 #### Screenshot 1 — MISP API Authentication Key
-
-Save your screenshot as:
-
-`assets/screenshots/misp-auth-key.png`
-
-Show the MISP authentication-key management interface, with the key value and any sensitive account information hidden or redacted.
 
 ![MISP authentication key configuration](assets/screenshots/misp-auth-key.png)
 
 ### 2. Copy the Collector Files
-
-Copy the project files into the Splunk application's directory.
 
 Example:
 
