@@ -1,0 +1,10 @@
+{
+  "misp_url": "https://YOUR-MISP-SERVER",
+  "api_key": "REPLACE_WITH_YOUR_MISP_API_KEY",
+  "verify_tls": true,
+  "page_size": 200,
+  "overlap_seconds": 300,
+  "timeout_seconds": 60,
+  "max_pages_per_endpoint": 2000,
+  "initial_lookback_days": 0
+}

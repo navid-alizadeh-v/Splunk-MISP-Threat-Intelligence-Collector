@@ -1,0 +1,6 @@
+[script://$SPLUNK_HOME/etc/apps/misp_collector/bin/misp_collector.sh]
+disabled = 1
+interval = 900
+index = misp
+sourcetype = misp:collector
+source = misp:api
