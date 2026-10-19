@@ -325,19 +325,11 @@ If no data appears, check:
 
 #### Screenshot 2 — Splunk Search Results
 
-Save your screenshot as:
-
-`assets/screenshots/splunk-misp-search.png`
-
 Show a successful Splunk search using the `misp` index and `misp:collector` sourcetype.
 
 ![Splunk search results for MISP data](assets/screenshots/splunk-misp-search.png)
 
 #### Screenshot 3 — MISP Threat Intelligence Events
-
-Save your screenshot as:
-
-`assets/screenshots/splunk-misp-events.png`
 
 Show representative collected IOC records, including fields such as the indicator value, type, MISP event ID, threat level, organization, or tags.
 
