@@ -121,8 +121,6 @@ misp_collector/
 └── README.md
 ```
 
-Runtime checkpoint files, local configuration, credentials, and production data should not be committed to the repository.
-
 ## Installation
 
 ### 1. Create a MISP API Authentication Key
