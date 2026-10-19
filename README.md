@@ -333,7 +333,6 @@ Show a successful Splunk search using the `misp` index and `misp:collector` sour
 
 Show representative collected IOC records, including fields such as the indicator value, type, MISP event ID, threat level, organization, or tags.
 
-Use sanitized data and hide any sensitive internal information.
 
 ![MISP threat intelligence events in Splunk](assets/screenshots/splunk-misp-events.png)
 
