@@ -418,14 +418,6 @@ TLS certificate verification should remain enabled in production.
 
 If your MISP deployment uses an internal certificate authority, configure the host or Python HTTP client to trust the appropriate CA certificate. Disabling verification may expose API traffic to interception.
 
-### Credentials and Data Protection
-
-- Never commit `local/misp_collector.json` with a real API key.
-- Keep runtime state and local configuration out of version control.
-- Redact sensitive values in screenshots and support logs.
-- Follow organizational requirements for storing and handling threat intelligence.
-- Review API permissions and key rotation procedures regularly.
-
 ### Production Deployment
 
 Test the collector in a controlled environment before deploying it to production.
